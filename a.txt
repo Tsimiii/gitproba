@@ -1,2 +1,2 @@
 Elsõ sor.
-Második sor <a href="http://google.hu" class="masik">Google</a>.
+Második sor <a href="http://google.hu" class="masik valamt">Google</a>.
